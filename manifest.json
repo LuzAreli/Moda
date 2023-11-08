@@ -1,0 +1,17 @@
+{
+    "name": "Moda Primavera-Verano 2023",
+    "short_name": "Moda",
+    "description": "Tendencias de moda para la temporada Primavera-Verano 2023",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#BB8FCE",
+    "theme_color": "#BB8FCE",
+    "icons": [
+      {
+        "src": ".imagenes/skin.jpg",
+        "sizes": "192x192",
+        "type": "imagenes/imagen3.png"
+      }
+    ]
+  }
+  
